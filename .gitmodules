@@ -1,0 +1,3 @@
+[submodule "deps/bin-reader"]
+	path = deps/bin-reader
+	url = https://github.com/Zxnii/bin-reader
